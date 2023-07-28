@@ -1,0 +1,31 @@
+[
+    {
+        "ownerName": "ChandraSans",
+        "ownerNumber": "6285691564740",
+        "botName": "Shikaluki Kateki Mirikatoteshika",
+        "botNumber": "6285810134844",
+        "instagram": "rafiadichandra_",
+        "privateResponse": false,
+        "groupResponse": true,
+        "response": {
+            "rowner": "Perintah ini hanya untuk Owner *ChandraSans*!",
+            "owner": "Perintah ini hanya untuk Owner!",
+            "group": "Perintah ini hanya untuk Group!",
+            "private": "Perintah ini hanya untuk Private!",
+            "wait": "Tunggu sebentar!",
+            "noteks": "Masukkan Text!",
+            "error": "Maaf, sepertinya error!",
+            "isRegis": "Anda Sudah Terdaftar di Database!",
+            "noRegis": "Anda Belum Terdaftar di Database!\n\nSilahkan ketik < *#daftar* nama >",
+            "unRegis": "Berhasil Terhapus!\n_Jika ingin menggunakan bot silahkan daftar kembali_"
+        },
+        "donasi": {
+            "tsel": "0812-1889-8489",
+            "indosat": "0856-9156-4740"
+        },
+        "packages": {
+            "title": "WhatsApp AutoResponder",
+            "version": "1.0"
+        }
+    }
+]
